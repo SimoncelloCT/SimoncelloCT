@@ -11,5 +11,5 @@ At present, I have decided to follow my main passion and focus on mobile develop
 Recently, I've taken the initiative to improve my Github account, as I hadn't utilized my personal one during my previous experiences (yes, I know, it's not a good thing 😩). <br> Nevertheless, there's always time to improve, and I believe it's never too late to start🚀 
 
 ### My passions
-Apart from Computer science, I'm passionate about motorsports 🏍  and music 🎶.. <br>
+Apart from Computer science, I'm passionate about motorsports 🏍  and music 🎶. <br>
 I've done motocross for several years and I play the 🎹 and the 🎸 in my free time
